@@ -1,2 +1,2 @@
 // YOUR SCRIPTS GO HERE
-$("iframe").fitVids();
+$("header").fitVids();
